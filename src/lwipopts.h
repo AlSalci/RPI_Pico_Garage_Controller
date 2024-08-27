@@ -1,6 +1,6 @@
 // Common settings used in most of the pico_w examples
 // (see https://www.nongnu.org/lwip/2_1_x/group__lwip__opts.html for details)]
-//This file must be in same folder as main or Cmake will bitch about it
+
 // allow override in some examples
 #ifndef NO_SYS
 #define NO_SYS                      1
